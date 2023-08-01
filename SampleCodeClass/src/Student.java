@@ -39,4 +39,8 @@ public class Student {
      return;
 }
 
+    void helloWorld() {
+        System.out.println("Hello World");
+    }
+
 }
