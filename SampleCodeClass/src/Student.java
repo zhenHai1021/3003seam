@@ -34,17 +34,6 @@ public class Student {
     }
    
     void testAll()
-<<<<<<< Updated upstream
- {
-     System.out.println("Hello");
-     return;
-}
-
-    void helloWorld() {
-        System.out.println("Hello World");
-    }
-
-=======
  	{
      	System.out.println("Hello");
      	return;
@@ -53,5 +42,4 @@ public class Student {
 	void helloWorld() {
      	System.out.println("Hello World");
 	}
->>>>>>> Stashed changes
 }
