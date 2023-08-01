@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/*Hehe XD
+*/
 
 /**
  *
@@ -42,4 +44,12 @@ public class Student {
 	void helloWorld() {
      	System.out.println("Hello World");
 	}
+	void myTest(){
+
+}
+
+    void abc()
+    {
+        
+    }
 }
