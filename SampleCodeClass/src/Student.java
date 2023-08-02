@@ -4,10 +4,9 @@
  * and open the template in the editor.
  */
 /*Hehe XD
+DJ CK
 */
-/*
-HIIII
-*/
+
 /**
  *
  * @author Testing */
